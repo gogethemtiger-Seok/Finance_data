@@ -1,3 +1,10 @@
+## Zenodo DOI
+https://doi.org/10.5281/zenodo.24223598
+
+## Zenodo DOI
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24223598.svg)](https://doi.org/10.5281/zenodo.24223598)
+
+
 # Investment Preferences Dataset
 
 ## About the Dataset
